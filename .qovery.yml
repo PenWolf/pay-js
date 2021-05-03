@@ -1,0 +1,11 @@
+---
+application:
+  name: "pay-js"
+  project: "random"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-pay-js"
+  routes:
+  - application_name: "pay-js"
+    paths:
+    - "/*"
